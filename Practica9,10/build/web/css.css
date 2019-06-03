@@ -1,0 +1,25 @@
+body{
+    background-image: url(imagenes/fondo.jpg);
+}
+div{
+    background-image: url(imagenes/fondo2.jpg);
+    background-repeat: no-repeat;
+    width:400px;
+    padding:10px;
+    position:relative;
+    left:457px;
+    top:220px;
+}
+div form{
+   text-align: justify;
+}
+div a{
+    text-align:justify;
+}
+
+div h1{
+    text-align:justify;
+}
+div form p{
+   color:greenyellow;
+}
